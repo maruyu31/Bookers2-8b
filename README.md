@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## bookers2に一週間の投稿数を表示できる機能を追加
+過去7日間分、それぞれの投稿数を一覧表示させ、chart.jsを用いて過去7日分の投稿数グラフを表示できるように実装
